@@ -1,0 +1,13 @@
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.csprojAssemblyReference.cache
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.AssemblyInfoInputs.cache
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.AssemblyInfo.cs
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.csproj.CoreCompileInputs.cache
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.exe
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.deps.json
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.runtimeconfig.json
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.runtimeconfig.dev.json
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.dll
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\bin\Debug\netcoreapp3.1\Execice 1_catégorie d'age.pdb
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.dll
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.pdb
+C:\Users\160646\Desktop\Execice 1_catégorie d'age\obj\Debug\netcoreapp3.1\Execice 1_catégorie d'age.genruntimeconfig.cache
